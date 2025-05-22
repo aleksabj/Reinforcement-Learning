@@ -1,0 +1,4 @@
+gymnasium
+neat-python
+matplotlib
+numpy
